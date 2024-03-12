@@ -1,0 +1,12 @@
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Domain\bin\Debug\net8.0\MotocycleRepair.Domain.deps.json
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Domain\bin\Debug\net8.0\MotocycleRepair.Domain.dll
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Domain\bin\Debug\net8.0\MotocycleRepair.Domain.pdb
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Domain\obj\Debug\net8.0\MotocycleRepair.Domain.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Domain\obj\Debug\net8.0\MotocycleRepair.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Domain\obj\Debug\net8.0\MotocycleRepair.Domain.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Domain\obj\Debug\net8.0\MotocycleRepair.Domain.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Domain\obj\Debug\net8.0\MotocycleRepair.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Domain\obj\Debug\net8.0\MotocycleRepair.Domain.dll
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Domain\obj\Debug\net8.0\refint\MotocycleRepair.Domain.dll
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Domain\obj\Debug\net8.0\MotocycleRepair.Domain.pdb
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Domain\obj\Debug\net8.0\ref\MotocycleRepair.Domain.dll

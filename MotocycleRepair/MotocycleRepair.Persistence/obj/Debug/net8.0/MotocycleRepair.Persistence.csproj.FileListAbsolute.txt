@@ -1,0 +1,17 @@
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Persistence\bin\Debug\net8.0\MotocycleRepair.Persistence.deps.json
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Persistence\bin\Debug\net8.0\MotocycleRepair.Persistence.dll
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Persistence\bin\Debug\net8.0\MotocycleRepair.Persistence.pdb
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Persistence\bin\Debug\net8.0\MotocycleRepair.Application.dll
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Persistence\bin\Debug\net8.0\MotocycleRepair.Domain.dll
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Persistence\bin\Debug\net8.0\MotocycleRepair.Application.pdb
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Persistence\bin\Debug\net8.0\MotocycleRepair.Domain.pdb
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Persistence\obj\Debug\net8.0\MotocycleRepair.Persistence.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Persistence\obj\Debug\net8.0\MotocycleRepair.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Persistence\obj\Debug\net8.0\MotocycleRepair.Persistence.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Persistence\obj\Debug\net8.0\MotocycleRepair.Persistence.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Persistence\obj\Debug\net8.0\MotocycleRepair.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Persistence\obj\Debug\net8.0\Motocycl.00B1712D.Up2Date
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Persistence\obj\Debug\net8.0\MotocycleRepair.Persistence.dll
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Persistence\obj\Debug\net8.0\refint\MotocycleRepair.Persistence.dll
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Persistence\obj\Debug\net8.0\MotocycleRepair.Persistence.pdb
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Persistence\obj\Debug\net8.0\ref\MotocycleRepair.Persistence.dll

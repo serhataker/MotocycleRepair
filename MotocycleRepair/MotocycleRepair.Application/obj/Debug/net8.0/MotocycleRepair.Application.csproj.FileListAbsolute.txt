@@ -1,0 +1,15 @@
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Application\bin\Debug\net8.0\MotocycleRepair.Application.deps.json
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Application\bin\Debug\net8.0\MotocycleRepair.Application.dll
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Application\bin\Debug\net8.0\MotocycleRepair.Application.pdb
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Application\bin\Debug\net8.0\MotocycleRepair.Domain.dll
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Application\bin\Debug\net8.0\MotocycleRepair.Domain.pdb
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Application\obj\Debug\net8.0\MotocycleRepair.Application.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Application\obj\Debug\net8.0\MotocycleRepair.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Application\obj\Debug\net8.0\MotocycleRepair.Application.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Application\obj\Debug\net8.0\MotocycleRepair.Application.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Application\obj\Debug\net8.0\MotocycleRepair.Application.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Application\obj\Debug\net8.0\Motocycl.19C2B2EB.Up2Date
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Application\obj\Debug\net8.0\MotocycleRepair.Application.dll
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Application\obj\Debug\net8.0\refint\MotocycleRepair.Application.dll
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Application\obj\Debug\net8.0\MotocycleRepair.Application.pdb
+C:\Users\Serhat\Desktop\MotocycleRepair\MotocycleRepair.Application\obj\Debug\net8.0\ref\MotocycleRepair.Application.dll

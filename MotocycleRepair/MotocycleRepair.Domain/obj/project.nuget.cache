@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "A2pDSOnJX2mAjsfc3l5QkVRCh9jhO017EE63VlDKleOMImh+fj7Yg3kHtu4j7V5R1TuchpztxbaeuwLGJvm06A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Serhat\\Desktop\\MotocycleRepair\\MotocycleRepair.Domain\\MotocycleRepair.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Serhat\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Serhat\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Serhat\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
